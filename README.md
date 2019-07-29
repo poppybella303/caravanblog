@@ -1,2 +1,0 @@
-# caravanblog
-Caravan Blog
